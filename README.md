@@ -109,8 +109,8 @@ header {
 <body>
 
 <header>
-<h1>Tienda de Pulseras Personalizadas M&M</h1>
-<p>Elige tus colores favoritos y envía tu pedido por correo. 💌</p>
+<h1> MNM Pulseras </h1>
+<p>Elige tus colores favoritos y envía tu pedido por correo. </p>
 <div id="cart" onmouseover="showCart()" onmouseleave="hideCart()">
     Carrito: <span id="cart-count">0</span>
     <div id="cart-details">
@@ -237,3 +237,4 @@ function updateOrdersPanel(){
 
 </body>
 </html>
+
