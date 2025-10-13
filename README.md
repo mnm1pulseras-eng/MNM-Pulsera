@@ -1,6 +1,5 @@
 # MNM-Pulseras
 Pulseras de lana hechas 100% a mano
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
