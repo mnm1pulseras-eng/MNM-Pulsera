@@ -140,7 +140,7 @@ header {
     <div id="color-preview"></div>
     <label>Cantidad: <input type="number" id="quantity" min="1" value="1"></label><br>
     <button onclick="addToCart('Pulsera Personalizable')">Agregar al carrito</button>
-    <button onclick="sendEmail()">📧 Enviar pedido por correo</button>
+    <button onclick="sendEmail()"> Enviar pedido por correo</button>
 </div>
 </div>
 
