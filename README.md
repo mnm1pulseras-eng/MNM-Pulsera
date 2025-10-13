@@ -5,7 +5,7 @@ Pulseras de lana hechas 100% a mano
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tienda de Pulseras M&M</title>
+<title>Tienda de Pulseras MNM</title>
 <style>
 body {
     margin:0;
